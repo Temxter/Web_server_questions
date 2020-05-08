@@ -1,0 +1,7 @@
+/src/main/resources/META-INF/persistence.xml
+/lab_6_heroku.iml
+/target/
+/deploy/
+/.idea/
+Procfile
+/src/main/webapp/WEB-INF/jetty-env.xml
